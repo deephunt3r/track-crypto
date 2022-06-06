@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "keywords": ["crypto","currency", "prices","cryptoprices", "cryptotracker","cryptopricetracker"],
   "bin": {
     "track": "./bin/track.js"
   },
